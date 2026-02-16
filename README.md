@@ -1,11 +1,11 @@
-Hi, I'm Vishal Kanteliya 👋
+## Hi, I'm Vishal Kanteliya 👋
 
 <!--
 **kanteliyavishal-web/kanteliyavishal-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Hi, I'm Vishal Kanteliya 👋
 
-🎓 PGDM (Finance & Marketing) | Risk & Operations Analyst  
+🎓 PGDM (Finance) 
 📊 Data-Driven Process Optimization | Compliance & Systems Thinking  
 💻 Power BI | Excel | SQL | Learning Python  
 📍 India  
